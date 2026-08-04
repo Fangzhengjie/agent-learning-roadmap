@@ -1,0 +1,3 @@
+# 实际使用时安装:
+# litellm>=1.40         # 统一 LLM 网关（100+ 模型）
+# portkey-ai>=1.0       # AI Gateway SaaS SDK

@@ -1,0 +1,6 @@
+# 实际使用时安装:
+# openai>=1.30          # Vision / TTS / Realtime API
+# google-generativeai   # Gemini 视频理解
+# opencv-python         # 视频关键帧提取
+# pdfplumber            # PDF 文本提取
+# unstructured          # 通用文档解析
